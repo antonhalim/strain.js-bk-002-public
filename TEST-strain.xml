@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite tests="12" errors="0" failures="0" time="0.014" timestamp="2015-05-22T13:20:29">
+		<testcase classname="strain" name="keeps on empty array returns empty array" time="0.004">
+		</testcase>
+		<testcase classname="strain" name="keeps everything " time="0.001">
+		</testcase>
+		<testcase classname="strain" name="keeps first and last" time="0">
+		</testcase>
+		<testcase classname="strain" name="keeps neither first nor last" time="0">
+		</testcase>
+		<testcase classname="strain" name="keeps strings" time="0.001">
+		</testcase>
+		<testcase classname="strain" name="keeps arrays" time="0">
+		</testcase>
+		<testcase classname="strain" name="empty discard" time="0">
+		</testcase>
+		<testcase classname="strain" name="discards nothing" time="0.001">
+		</testcase>
+		<testcase classname="strain" name="discards first and last" time="0.001">
+		</testcase>
+		<testcase classname="strain" name="discards neither first nor last" time="0">
+		</testcase>
+		<testcase classname="strain" name="discards strings" time="0">
+		</testcase>
+		<testcase classname="strain" name="discards arrays" time="0">
+		</testcase>
+	</testsuite>
+</testsuites>
+
